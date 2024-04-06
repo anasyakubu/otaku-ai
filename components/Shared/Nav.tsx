@@ -6,9 +6,11 @@ import Logo from "../../app/assets/logo.png";
 import Image from "next/image";
 
 const navigation = [
-  { name: "Feature", href: "/" },
-  { name: "Pricing", href: "#pricing" },
-  { name: "Community", href: "#community" },
+  { name: "Features", href: "/" },
+  { name: "Anime", href: "/" },
+  { name: "AI", href: "/" },
+  { name: "Wallpapers", href: "/" },
+  { name: "Vote", href: "/" },
   { name: "Blog", href: "#blog" },
   // { name: "Contact", href: "#" },
 ];
